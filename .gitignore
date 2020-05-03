@@ -1,0 +1,9 @@
+wp-*.php
+wp-*/
+!wp-content/
+license.txt
+readme.html
+xmlrpc.php
+/index.php
+twenty*/
+languages/
