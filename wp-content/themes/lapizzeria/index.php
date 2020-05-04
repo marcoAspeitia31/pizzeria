@@ -1,2 +1,2 @@
 <?php
-echo 'Hola mundo';
+/* Type your code bellow */
